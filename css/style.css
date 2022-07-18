@@ -206,6 +206,36 @@ hr {
   margin: 15px 0 15px 0;
 }
 
+/* FOOTER SECTION */
+
+footer {
+  background-color: black;
+
+  color: whitesmoke;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  padding-bottom: 10px;
+}
+
+.ft-header {
+  padding: 10px 0 10px;
+  font-size: 1.5rem;
+  color: whitesmoke;
+  margin-left: 40px;
+}
+
+.ft-cr {
+  margin: 0 0 0 40px;
+}
+
+footer img {
+  width: 50px;
+}
+
+footer li {
+  display: inline-block;
+}
+
 @media screen and (max-width: 768px) {
   .authors {
     display: grid;
